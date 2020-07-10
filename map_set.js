@@ -10,8 +10,13 @@ map.set('b', 2).set(NaN, 'Number').set(42, 'demo')
 // map.delete('b')
 // console.log(map.size);
 
-console.log(map.keys())
-console.log(map.entries())
-console.log(map.values())
+// console.log(map.keys())
+// console.log(map.entries())
+// console.log(map.values())
+
+
+// Set
+const set = new Set([1, 2, 3, 4, 5, 6, 6, 6, 6])
+
 
 
